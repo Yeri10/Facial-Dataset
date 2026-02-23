@@ -8,11 +8,11 @@ I fine-tune a ResNet18 model on a curated facial dataset and compare predictions
 
 ## Dataset
 	•	144 facial images
-	•	6 classes: Neutral, Sad, Shocked
+	•	6 classes: Neutral, Sad, Shocked, Happy, Fear, Anger
 	•	Emotion and contextual metadata included
 
 ## Method
-	1.	Fine-tune ResNet18 for 3-class emotion classification
+	1.	Fine-tune ResNet18 for 6-class emotion classification
 	2.	Evaluate with validation accuracy and confusion matrix
 	3.	Compare predictions under:
 	•	Original image
