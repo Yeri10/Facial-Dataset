@@ -8,7 +8,7 @@ I fine-tune a ResNet18 model on a curated facial dataset and compare predictions
 
 ## Dataset
 	•	144 facial images
-	•	3 classes: Neutral, Sad, Shocked
+	•	6 classes: Neutral, Sad, Shocked
 	•	Emotion and contextual metadata included
 
 ## Method
