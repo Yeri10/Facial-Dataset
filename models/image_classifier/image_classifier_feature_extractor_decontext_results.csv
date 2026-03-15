@@ -1,0 +1,14 @@
+image_id,image_path,label,label_idx,crop_method,pred_1,pred_1_idx,conf_1,pred_2,pred_2_idx,conf_2,pred_3,pred_3_idx,conf_3,same_1_2,same_2_3
+0,dataset/Sad/img_005.jpg,Sad,4,haar_face,Sad,4,0.4272180199623108,Shocked,5,0.3206630349159241,Sad,4,0.39331018924713135,0,0
+1,dataset/Happy/img_091.jpg,Happy,2,haar_face,Sad,4,0.2963846027851105,Shocked,5,0.37935957312583923,Shocked,5,0.3490818738937378,0,1
+2,dataset/Shocked/img_143.jpg,Shocked,5,haar_face,Shocked,5,0.34753668308258057,Shocked,5,0.3099932074546814,Sad,4,0.46013808250427246,1,0
+3,dataset/Nuetual/img_104.jpg,Nuetual,3,haar_face,Nuetual,3,0.38687023520469666,Nuetual,3,0.4846932291984558,Nuetual,3,0.5248955488204956,1,1
+4,dataset/Sad/img_012.jpg,Sad,4,haar_face,Nuetual,3,0.38283270597457886,Nuetual,3,0.41724106669425964,Sad,4,0.33757779002189636,1,0
+5,dataset/Nuetual/img_115.jpg,Nuetual,3,haar_face,Nuetual,3,0.38284727931022644,Sad,4,0.5651160478591919,Sad,4,0.7659866809844971,0,1
+6,dataset/Anger/img_066.jpeg,Anger,0,haar_face,Anger,0,0.46203354001045227,Anger,0,0.27289626002311707,Fear,1,0.27714115381240845,1,0
+7,dataset/Happy/img_086.jpg,Happy,2,haar_face,Nuetual,3,0.34100106358528137,Nuetual,3,0.38556233048439026,Sad,4,0.6045765280723572,1,0
+8,dataset/Fear/img_033.jpg,Fear,1,haar_face,Anger,0,0.26561540365219116,Nuetual,3,0.3174297511577606,Nuetual,3,0.28586795926094055,0,1
+9,dataset/Fear/img_029.jpg,Fear,1,haar_face,Nuetual,3,0.4057307541370392,Fear,1,0.3516079783439636,Sad,4,0.5086908340454102,0,0
+10,dataset/Anger/img_056.jpg,Anger,0,haar_face,Sad,4,0.26101741194725037,Nuetual,3,0.2580021321773529,Sad,4,0.317483127117157,0,0
+11,dataset/Shocked/img_129.jpg,Shocked,5,haar_face,Nuetual,3,0.4919133484363556,Shocked,5,0.28992223739624023,Shocked,5,0.36483678221702576,0,1
+12,dataset/Happy/img_090.jpg,Happy,2,center_fallback,Nuetual,3,0.4050891399383545,Nuetual,3,0.4526937007904053,Nuetual,3,0.2694664001464844,1,1
